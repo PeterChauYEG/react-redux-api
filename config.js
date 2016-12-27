@@ -1,0 +1,6 @@
+export const apiSecret = ''
+export const DB_NAME = ''
+export const DB_PASSWORD = ''
+export const DB_PORT = ''
+export const DB_URL = ''
+export const DB_USER = ''
