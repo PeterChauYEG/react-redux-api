@@ -1,8 +1,4 @@
-# Pogo Maintenance Map
-
-## Overview
-
-This is a internal service used to monitor fleets. 
+# react-redux-api
 
 ## Running locally
 1. Api installation
